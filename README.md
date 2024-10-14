@@ -44,6 +44,13 @@ Hey👋!<br><br>Sou Guilherme Tiago<br><br>🔭 Atualmente: Aluno, 17 anos, curs
     </a>
 </div>
 
+## Habilidades
+- Trabalho em equipe
+- Resolução de problemas
+- Comunicação
+
+> "A única maneira de fazer um excelente trabalho é amar o que você faz." – Steve Jobs
+
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeTiago22&theme=radical&hide_border=false)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuilhermeTiago22&theme=radical)
