@@ -9,6 +9,9 @@
 />
 Hey👋!<br><br>Sou Guilherme Tiago<br><br>🔭 Atualmente: Aluno, 17 anos, cursando o 3º ano técnico em Desenvolvimento de Sistemas na ETEC<br>📫 Como entrar em contato: [LinkedIn](https://www.linkedin.com/in/gui-tiago06/), [Instagram](https://www.instagram.com/guitiago_/)
 
+## 🎯 Objetivo
+Buscando ingressar no mercado de trabalho na área de TI como Analista de Sistemas Jr., Analista de Dados Jr. ou Desenvolvedor Jr., contribuindo com meus conhecimentos e habilidades técnicas.
+
 ## Conecte-se comigo:
 <p align="left">
   <a href="https://www.linkedin.com/in/gui-tiago06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gui-tiago06" height="30" width="40" /></a>
@@ -43,13 +46,6 @@ Hey👋!<br><br>Sou Guilherme Tiago<br><br>🔭 Atualmente: Aluno, 17 anos, curs
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
     </a>
 </div>
-
-## Habilidades
-- Trabalho em equipe
-- Resolução de problemas
-- Comunicação
-
-> "A única maneira de fazer um excelente trabalho é amar o que você faz." – Steve Jobs
 
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeTiago22&theme=radical&hide_border=false)
