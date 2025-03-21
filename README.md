@@ -7,7 +7,7 @@
   width="400"
   src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
 />
-Hey👋!<br><br>Sou Guilherme Tiago<br><br>🔭 Atualmente: Aluno, 18 anos, cursando o 3º ano técnico em Desenvolvimento de Sistemas na ETEC<br>📫 Como entrar em contato: [LinkedIn](https://www.linkedin.com/in/gui-tiago06/), [Instagram](https://www.instagram.com/guitiago_/)
+Hey👋!<br><br>Sou Guilherme Tiago<br><br>Atualmente: Estudante de Análise e Desenvolvimento de Sistemas na UNICSUL, com formação técnica em Desenvolvimento de Sistemas pela ETEC Jaraguá.<br>📫 Como entrar em contato: [LinkedIn](https://www.linkedin.com/in/gui-tiago06/), [Instagram](https://www.instagram.com/guitiago_/)
 
 ## 🎯 Objetivo
 Buscando ingressar no mercado de trabalho na área de TI como Analista de Sistemas Jr., Analista de Dados Jr. ou Desenvolvedor Jr., contribuindo com meus conhecimentos e habilidades técnicas.
