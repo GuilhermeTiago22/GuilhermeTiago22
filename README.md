@@ -10,7 +10,9 @@
 Hey👋!<br><br>Sou Guilherme Tiago<br><br>🎓 Atualmente: Estudante de Análise e Desenvolvimento de Sistemas na UNICSUL, com formação técnica em Desenvolvimento de Sistemas pela ETEC Jaraguá.<br>📫 Como entrar em contato: [LinkedIn](https://www.linkedin.com/in/gui-tiago06/), [Instagram](https://www.instagram.com/guitiago_/)
 
 ## 🎯 Objetivo
-Buscando ingressar no mercado de trabalho na área de TI como Analista de Sistemas Jr., Analista de Dados Jr. ou Desenvolvedor Jr., contribuindo com meus conhecimentos e habilidades técnicas.
+Atualmente trabalho como Aprendiz no Grupo Brasanitas, onde busco aplicar e expandir minhas habilidades em tecnologia da informação e sistemas ERP. Minha formação técnica em Desenvolvimento de Sistemas pela Etec Jaraguá e minha graduação em andamento em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul complementam minha experiência prática e base acadêmica. 
+
+Tenho interesse em contribuir para projetos que promovam inovação e eficiência tecnológica. Minhas competências incluem o uso de ferramentas como Microsoft Office, além de conhecimentos adquiridos no curso Técnico em Desenvolvimento de Sistemas, como programação em Java, JavaScript, HTML, CSS, SQL, PHP, React, React Native, Node.js, Express.js, e GitHub, com experiência em colaboração em projetos via GitHub. Também possuo domínio avançado em inglês, com certificação TOEIC Bridge®. Estou motivado a colaborar com equipes dinâmicas e crescer profissionalmente no setor de TI.
 
 ## Conecte-se comigo:
 <p align="left">
